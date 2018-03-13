@@ -1,0 +1,10 @@
+body {
+  max-width: 720px;
+  padding: 20px 40px;
+  margin: 0 auto;
+}
+
+th {
+  white-space: nowrap;
+  text-transform: uppercase;
+}
